@@ -1,1 +1,6 @@
-
+$ git init
+touch README.md
+$ git add README.md
+$ git commit
+$ git branch -M main
+gitr push -u origin main \
